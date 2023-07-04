@@ -190,13 +190,21 @@
   flex-direction: column;
 }
 .home-header {
-  color: rgb(255, 255, 255);
   font-size: 90px;
   max-width: 900px;
   font-style: normal;
   text-align: center;
   font-weight: 500;
   line-height: 108px;
+}
+.home-text05 {
+  color: #ffffff;
+}
+.home-text06 {
+  color: #ffffff;
+}
+.home-text07 {
+  color: #e2ff00;
 }
 .home-caption {
   color: rgb(255, 255, 255);
@@ -370,7 +378,7 @@
   padding-bottom: 0px;
   background-color: transparent;
 }
-.home-text07 {
+.home-text10 {
   font-style: normal;
   font-weight: 500;
 }
@@ -448,7 +456,7 @@
   padding-bottom: 0px;
   background-color: transparent;
 }
-.home-text08 {
+.home-text11 {
   font-style: normal;
   font-weight: 500;
 }
@@ -535,7 +543,7 @@
   padding-bottom: 0px;
   background-color: transparent;
 }
-.home-text09 {
+.home-text12 {
   font-style: normal;
   font-weight: 500;
 }
