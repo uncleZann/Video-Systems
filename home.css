@@ -767,8 +767,6 @@
 @media(max-width: 479px) {
   .home-navbar {
     padding: var(--dl-space-space-unit);
-    padding-left: 14px;
-    padding-right: var(--dl-space-space-twounits);
   }
   .home-button {
     color: rgb(255, 255, 255);
